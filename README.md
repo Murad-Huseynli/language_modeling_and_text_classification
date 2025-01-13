@@ -91,7 +91,7 @@ Multiple smoothing methods were implemented and compared:
 #### Sentiment Analysis (Positive/Negative)
 Both classification approaches showed similar performance levels for sentiment analysis:
 * Naive Bayes Accuracy: ~<b>67%</b>
-* Binary Naive Bayes Accuracy:<b>67%</b>
+* Binary Naive Bayes Accuracy: ~<b>67%</b>
 
 Key observations:
 * Moderate performance for binary sentiment classification
